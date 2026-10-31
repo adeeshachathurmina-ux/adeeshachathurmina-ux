@@ -1,12 +1,10 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,28&height=220&section=header&text=Adeesha%20Chathurmina&fontSize=42&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=60&descSize=18" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,28&height=210&section=header&text=Adeesha%20Chathurmina&fontSize=42&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=60&descSize=18" width="100%" alt="Header" />
 
-  <!-- Typing SVG Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=👋+Hello,+World!+I'm+Adeesha;💡+Building+Intelligent+AI+%26+Modern+Web+Apps;🎨+Crafting+Intuitive+Digital+Experiences;🚀+Always+learning+and+innovating!" alt="Typing SVG" />
-  </a>
+  <!-- Interactive AI Agent Terminal Card -->
+  <img src="https://raw.githubusercontent.com/adeeshachathurmina-ux/adeeshachathurmina-ux/main/terminal.svg" width="100%" alt="Adeesha's AI Agent Terminal" />
 
   <br/><br/>
 
@@ -27,20 +25,19 @@
 
 ---
 
-### 👨‍💻 About Me
+### 🧠 Engineering Philosophy & Focus
 
 ```yaml
-Name: Adeesha Chathurmina
+Discipline: Full-Stack Artificial Intelligence & Data Science
+Core Architectures: Explainable AI, Agentic RAG Systems, Multi-Agent Reasoning
+Tech Stack Spectrum: Python (PyTorch/Sklearn/Streamlit), TypeScript (Next.js/React), Java, R
 Location: Sri Lanka 🇱🇰
-Focus: Generative AI, Agentic RAG, Full-Stack Engineering, UI/UX
-Passions: Building data-driven web platforms, Explainable AI & Human-Centric Design
-Current Goal: Creating AI tools that solve real-world problems intuitively
+Mission: "Designing intelligent software that is computationally powerful yet human-intuitive."
 ```
 
-- 🔭 **Currently Building:** Full-stack AI applications, Agentic RAG systems & interactive web platforms.
-- 💡 **Interests:** Explainable AI, Machine Learning, UI/UX Design, Cloud & Modern Web Frameworks.
-- 💬 **Ask me about:** Python, TypeScript, React, Next.js, Streamlit, RAG architectures & Figma prototyping.
-- ⚡ **Philosophy:** *"Design is not just what it looks like and feels like. Design is how it works."*
+- 🔭 **Current Focus:** Developing production-grade Agentic RAG workflows, Explainable ML models, and interactive full-stack AI dashboards.
+- 💡 **Research Interests:** Transparent machine learning models, domain-specific NLP, and intelligent decision-support systems.
+- 💬 **Collaborate With Me On:** Generative AI solutions, predictive data pipelines, and UI/UX design systems.
 
 ---
 
@@ -48,24 +45,24 @@ Current Goal: Creating AI tools that solve real-world problems intuitively
 
 <div align="center">
 
-  **Languages**
+  **Programming Languages**
   <br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,ts,js,java,r,html,css&perline=8" alt="Languages" />
   </a>
   <br/><br/>
 
-  **Frameworks & Libraries**
+  **AI, Data Science & Web Frameworks**
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,spring,fastapi,flask,pytorch,sklearn&perline=8" alt="Frameworks" />
+    <img src="https://skillicons.dev/icons?i=pytorch,sklearn,fastapi,flask,react,nextjs,tailwind,spring&perline=8" alt="Frameworks" />
   </a>
   <br/><br/>
 
-  **Design, Databases & Developer Tools**
+  **Databases, Cloud & Developer Tools**
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,supabase,postgres,postman,vercel&perline=8" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=supabase,postgres,figma,git,github,vscode,postman,vercel&perline=8" alt="Tools" />
   </a>
 
 </div>
@@ -74,13 +71,26 @@ Current Goal: Creating AI tools that solve real-world problems intuitively
 
 ### 🚀 Highlighted Projects
 
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| 🚗 **[luxcar-intelligence-360](https://github.com/adeeshachathurmina-ux/luxcar-intelligence-360)** | `TypeScript` `Next.js` `AI` | Full-stack AI platform for smart vehicle discovery, suitability matching & 5-yr TCO forecasting. |
-| 🧠 **[studypilot-ai-ultimate](https://github.com/adeeshachathurmina-ux/studypilot-ai-ultimate)** | `Python` `RAG` `AI` | Modern RAG-powered academic platform transforming lecture notes into quizzes & study plans. |
-| 🌴 **[CeylonPath-R](https://github.com/adeeshachathurmina-ux/CeylonPath-R)** | `R` `Shiny` | Explainable Sri Lankan tourism recommendation and budget planning system. |
-| 🌦️ **[sri-lanka-weather-insights](https://github.com/adeeshachathurmina-ux/sri-lanka-weather-insights-dashboard)** | `Python` `Streamlit` | Interactive dashboard for analysing and comparing live weather across Sri Lanka. |
-| 🤝 **[skillswap-nexus](https://github.com/adeeshachathurmina-ux/skillswap-nexus)** | `Next.js` `Tailwind` `Supabase` | Modern reciprocal skill exchange platform with dynamic animations & real-time features. |
+| Project | Domain | Architecture / Stack | Description |
+| :--- | :--- | :--- | :--- |
+| 🚗 **[luxcar-intelligence-360](https://github.com/adeeshachathurmina-ux/luxcar-intelligence-360)** | AI & Analytics | `TypeScript` `Next.js` `AI` | Full-stack AI vehicle discovery system with dual-horizon matching & 5-year TCO projections. |
+| 🧠 **[studypilot-ai-ultimate](https://github.com/adeeshachathurmina-ux/studypilot-ai-ultimate)** | Generative AI | `Python` `RAG` `AI` | Academic learning platform transforming lecture notes into grounded answers & revision insights. |
+| 🌴 **[CeylonPath-R](https://github.com/adeeshachathurmina-ux/CeylonPath-R)** | Data Science | `R` `Shiny` | Explainable tourism recommendation and budget planning system for Sri Lanka. |
+| 🌦️ **[sri-lanka-weather-insights](https://github.com/adeeshachathurmina-ux/sri-lanka-weather-insights-dashboard)** | Analytics | `Python` `Streamlit` | Live multi-city weather comparison and meteorological insight dashboard. |
+| 🤝 **[skillswap-nexus](https://github.com/adeeshachathurmina-ux/skillswap-nexus)** | Full-Stack | `Next.js` `Tailwind` `Supabase` | Reciprocal skill exchange platform with modern reactive UI and Supabase backend. |
+
+---
+
+### 🐍 Contribution Activity (Snake Eating Commits)
+
+<!-- The retro snake eating contributions animation generated automatically via GitHub Actions -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeeshachathurmina-ux/adeeshachathurmina-ux/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adeeshachathurmina-ux/adeeshachathurmina-ux/output/github-contribution-grid-snake.svg">
+    <img alt="Adeesha's GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/adeeshachathurmina-ux/adeeshachathurmina-ux/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</div>
 
 ---
 
@@ -116,12 +126,12 @@ Current Goal: Creating AI tools that solve real-world problems intuitively
 
 <div align="center">
 
-  <!-- Visitor Counter -->
+  <!-- Profile Visitor Counter -->
   <img src="https://komarev.com/ghpvc/?username=adeeshachathurmina-ux&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views" />
 
   <br/><br/>
 
   <!-- Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,28&height=120&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,28&height=110&section=footer" width="100%" alt="Footer" />
 
 </div>
